@@ -6,7 +6,7 @@ class NumberGuessGame: # Kelas untuk permainan tebak angka
         self.secret = random.randint(1, 100) # Menghasilkan angka acak antara 1 dan 100
 
     def start(self): # Memulai permainan
-        print("\n=== Number Guessing Game Zain UAS ===") # Menampilkan judul permainan
+        print("\n=== Number Guessing Game Tugas UAS Zakaria ===") # Menampilkan judul permainan
         print("Tebak Angka (1 - 100)!") # Instruksi permainan
 
         while True: # Loop utama permainan
